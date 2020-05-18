@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zt-btn",
+    "texture": "90f2a5a2-fbcd-46c3-b0e8-effb8b90988d",
+    "atlas": "4945e10f-f64a-4d81-b456-07fc36a7a608",
+    "rect": [
+      117,
+      301,
+      267,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      267,
+      93
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

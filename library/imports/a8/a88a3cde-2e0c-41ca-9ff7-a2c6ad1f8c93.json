@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gk-shezhidi",
+    "texture": "90f2a5a2-fbcd-46c3-b0e8-effb8b90988d",
+    "atlas": "4945e10f-f64a-4d81-b456-07fc36a7a608",
+    "rect": [
+      164,
+      486,
+      189,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      189,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

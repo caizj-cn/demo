@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zan_ting",
+    "texture": "0a9478f1-c55a-4f29-98a3-1a67b5e66432",
+    "atlas": "157cca33-0002-4c30-8560-4a67a09e93e7",
+    "rect": [
+      81,
+      829,
+      70,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

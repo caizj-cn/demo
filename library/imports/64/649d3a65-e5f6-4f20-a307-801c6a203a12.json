@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "de_bubing",
+    "texture": "c89abe3f-3453-49bd-8368-b6f5f0843b2b",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      244,
+      106
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      248,
+      110
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

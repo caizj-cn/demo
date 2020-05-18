@@ -1,0 +1,89 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "map.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "da_an_niu": {
+      "__uuid__": "bbf466ef-8e03-4fe3-acab-5033671eacbd"
+    },
+    "di_fang": {
+      "__uuid__": "6f8b596b-8ac3-4643-af27-c8982728f842"
+    },
+    "di_tu": {
+      "__uuid__": "a63abe2e-18ad-409f-9760-dfd4a2c2cde1"
+    },
+    "fang_xiang_tu_biao": {
+      "__uuid__": "72646f72-e1c9-4267-b644-083283290a34"
+    },
+    "gongchang1": {
+      "__uuid__": "c9c1499f-f719-482b-ac7a-4433fa9de7bd"
+    },
+    "gongchang2": {
+      "__uuid__": "680d27d1-5c8b-4697-913b-3ffb58301baa"
+    },
+    "huan_qiang": {
+      "__uuid__": "b34fe621-af25-4892-a5fc-ff5c205f18a0"
+    },
+    "ji_fang": {
+      "__uuid__": "010d7ae2-b7d1-450a-aa52-9370646806a1"
+    },
+    "jin_bi": {
+      "__uuid__": "c60cbeb3-a173-410d-9d17-c054485a39e7"
+    },
+    "miao_zhun_gong_ji": {
+      "__uuid__": "30e0e485-698a-4ad1-b7a1-6f81739893ed"
+    },
+    "paojia": {
+      "__uuid__": "f182cd60-0d1c-4371-b6ce-bc308dcaa7e3"
+    },
+    "paotai1": {
+      "__uuid__": "50879de5-da6f-454b-abba-7ad4f2bb6f62"
+    },
+    "paotai2": {
+      "__uuid__": "484b6c23-d03d-442d-a7fe-7871be2d7af9"
+    },
+    "qiang1": {
+      "__uuid__": "e2dfaa57-7af3-4bd1-80ed-0dbd663f79a9"
+    },
+    "qiang2": {
+      "__uuid__": "c36c6ed7-450c-4f07-abe7-e8b5618e4d97"
+    },
+    "qiang3": {
+      "__uuid__": "1e401948-4ffe-4fbf-87c7-bd59c7c96725"
+    },
+    "qiang4": {
+      "__uuid__": "59ddd25d-4096-4b4c-ae9a-eeb19ebcd942"
+    },
+    "sheng_ming_ai_xin": {
+      "__uuid__": "303a7010-d2b7-4e8f-a68a-a31fa73fe250"
+    },
+    "tiao_yue": {
+      "__uuid__": "bb033852-2c5d-401f-8a77-c38a3b5a08c7"
+    },
+    "tou_xiang_xie_liang": {
+      "__uuid__": "3a65dde9-582d-4f4b-b4ab-fb9ba6ff993a"
+    },
+    "xiao_an_niu": {
+      "__uuid__": "373a2999-3e4b-44b4-9ecd-8ae419572354"
+    },
+    "xiao_bing_di": {
+      "__uuid__": "f77eb2e5-cc6b-401f-add9-389e59b127f4"
+    },
+    "xie_liang": {
+      "__uuid__": "e5c1ccf4-e2b1-4810-8cac-83cbf0bb84cd"
+    },
+    "xie_liang_di": {
+      "__uuid__": "62eeb506-7bed-46c1-9ca8-39037d2b8e20"
+    },
+    "zan_ting": {
+      "__uuid__": "84fc01bd-b183-49e8-a302-891e9a8cfa49"
+    },
+    "zhu_jiao": {
+      "__uuid__": "ff37757a-922b-488c-ae2f-d86905d99b31"
+    },
+    "zi": {
+      "__uuid__": "7e3805fb-17b9-4695-8245-f36f0d7269f4"
+    }
+  }
+}

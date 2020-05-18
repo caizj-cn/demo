@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "de_bu",
+    "texture": "eda25675-0559-458f-9147-93447f6d84e7",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      244,
+      106
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      248,
+      110
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

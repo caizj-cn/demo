@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "loading.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "loading0": {
+      "__uuid__": "37fa7679-2bcd-4dd0-9481-eacb2efc3b15"
+    },
+    "loadingbg": {
+      "__uuid__": "9f7960d8-0ae9-4d8d-8feb-5a2a4ab79afc"
+    },
+    "logo": {
+      "__uuid__": "e6d2900f-7fb5-4b14-b81c-53149e676e89"
+    },
+    "zi": {
+      "__uuid__": "06ea898e-593e-4443-950b-e6e923b874a4"
+    }
+  }
+}

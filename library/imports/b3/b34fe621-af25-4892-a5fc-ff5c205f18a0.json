@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huan_qiang",
+    "texture": "0a9478f1-c55a-4f29-98a3-1a67b5e66432",
+    "atlas": "157cca33-0002-4c30-8560-4a67a09e93e7",
+    "rect": [
+      412,
+      397,
+      106,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      106,
+      98
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

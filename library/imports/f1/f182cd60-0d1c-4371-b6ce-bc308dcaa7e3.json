@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paojia",
+    "texture": "0a9478f1-c55a-4f29-98a3-1a67b5e66432",
+    "atlas": "157cca33-0002-4c30-8560-4a67a09e93e7",
+    "rect": [
+      2,
+      624,
+      127,
+      209
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      209
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
