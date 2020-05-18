@@ -1,0 +1,9 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.3.3",
+  "name": "IceHero",
+  "uuid": "b4cedf78-8b3d-4fa4-aaf9-12559c498158",
+  "id": "6e329f7f-8585-49cb-a387-025f472a9780",
+  "isNew": false
+}
